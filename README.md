@@ -2,7 +2,7 @@
     <img alt="Be The hero" src="https://user-images.githubusercontent.com/47838241/77866996-bc71c200-720b-11ea-85ec-3ec47bc95b87.png"/>
 </h1>
 
-## Deion
+## Description
 Aplicação desenvolvida na Semana OmniStack , o intuito desse projeto é encontrar pessoas para ajudar financeiramente nos casos criados por ONG's registradas no aplicativo
 
 ## Technologies
