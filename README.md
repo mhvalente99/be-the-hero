@@ -3,16 +3,16 @@
 </h1>
 
 ## Description
-Aplicação desenvolvida na Semana OmniStack , o intuito desse projeto é encontrar pessoas para ajudar financeiramente nos casos criados por ONG's registradas no aplicativo
+Application developed at OmniStack Week, the purpose of this project is to find people to help financially in cases created by organizations registered in the application.
 
 ## Technologies
 * :rocket: Frontend: React.js
 * :rocket: Backend: Node.js
 * :rocket: Mobile: React Native
 
-##Images
+## Images
 
-##View Demo
+## View Demo
 Coming soon
 
 ## Features 
